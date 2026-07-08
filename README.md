@@ -76,6 +76,8 @@ python task.py
 
 Update the file paths at the top of `task.py` if your CSVs live somewhere
 other than the project root.
+<img width="2400" height="1800" alt="image" src="https://github.com/user-attachments/assets/4d64dafd-f09b-4a6e-bd8b-b6bbb6ada16d" />
+
 
 ## Requirements
 
